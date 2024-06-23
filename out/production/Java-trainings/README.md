@@ -1,0 +1,1 @@
+This repositories consists of my java tranings, practices and projects done by me
